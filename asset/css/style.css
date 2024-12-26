@@ -1,0 +1,32 @@
+.banner_section .banner{
+    position: relative;
+
+}
+
+.banne{
+
+   
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: red;
+
+
+}
+
+
+.footers{
+
+    background-color: black;
+    height: 80px;
+    text-align: center;
+    padding-top:40px;
+    color: white;
+}
+
+.cont{
+
+    margin-top: 70px;
+
+}
