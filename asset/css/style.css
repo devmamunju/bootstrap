@@ -30,3 +30,22 @@
     margin-top: 70px;
 
 }
+
+/* Small devices (e.g., smartphones, <576px) */
+@media screen and (max-width: 575.98px) {
+    .banne {
+      color: lightblue; 
+      font-size: 8px;
+      font-weight: 15px;
+      /* Example style for small screens */
+    }
+  }
+  
+  /* Medium devices (e.g., tablets, 576px - 767px) */
+  @media screen and (min-width: 576px) and (max-width: 767.98px) {
+    .banne {
+      color: lightgreen;
+      font-size: 8px; /* Example style for medium screens */
+    }
+  }
+  
